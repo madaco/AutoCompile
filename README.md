@@ -1,2 +1,13 @@
 # AutoCompile
-Automatically compiled script for project of e2 studio
+1.介绍：e2 studio工程自动编译脚本
+
+2.配备环境： JDK 14.0.1
+
+3.操作步骤：更改脚本中的软件目录、工程所在工作空间目录、工程名，保存后执行即可
+
+4.版本变动
+
+V1.0.0
+
+能够自动生成.srec或.hex某一种可执行文件，如果要更换类型，需要在原工程属性中修改。
+
